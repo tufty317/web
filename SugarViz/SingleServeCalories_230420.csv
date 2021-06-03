@@ -1,0 +1,166 @@
+ProductCode,Order,Product,CALT1,CALT2,CALCH
+Chocolate confectionery,1,  Cadburys Dairy Milk Freddo (108g),95,95,0
+Chocolate confectionery,1,  Milky Way (129g),96,97,0.006711409
+Chocolate confectionery,1,  Twix 16 Fingers (368g),113,113,0
+Chocolate confectionery,1,  Twix Fingers (207g),113,113,0
+Chocolate confectionery,1,  Cadburys Fudge 6 Pack (153g),113,113,0
+Chocolate confectionery,1,  Twix Fingers (207g),114,113,-0.004040404
+Chocolate confectionery,1,  Cadburys Curly Wurly (130g),118,118,-0.004395604
+Chocolate confectionery,1,  Cadburys Flake (102g),136,136,0
+Chocolate confectionery,1,  Cadburys Crunchie 4 Bars (128g),150,149,-0.008510638
+Chocolate confectionery,1,  Cadburys Wispa (120g),165,165,0
+Chocolate confectionery,1,  Cadburys Creme Egg (197g),173,173,0
+Chocolate confectionery,1,  Galaxy Ripple (132g),175,175,-0.001886792
+Chocolate confectionery,1,  Mars (157.6g),177,177,0
+Chocolate confectionery,1,  Cadburys Twirl Twin Bars (136g),182,180,-0.013084112
+Chocolate confectionery,1,  Dairyfine Titan (6x40g) (240g),183,178,-0.02844639
+Chocolate confectionery,1,  Nestle Toffee Crisp (152g),195,198,0.015594542
+Chocolate confectionery,1,  Fry's Turkish Delight (153g),196,185,-0.057142857
+Chocolate confectionery,1,  Dairyfine Racer (6x40g) (240g),200,200,0
+Chocolate confectionery,1,  Nestle Kit Kat Chunky 4 Bars (160g),206,203,-0.01744186
+Chocolate confectionery,1,  Snickers 4 Snickers Bars (166.8g),213,213,0
+Chocolate confectionery,1,  Galaxy Smooth Milk,229,229,0
+Chocolate confectionery,1,  Bounty (228g),278,278,0
+Biscuits,2,  Kellogg's Coco Pops (120g),84,84,0.007159905
+Biscuits,2,  Nestle Breakaway 8 Original (152.8g),98,98,0
+Biscuits,2,  Nestle Blue Riband Original (154.4g),99,99,0
+Biscuits,2,  Nestle Kit Kat Original (331.2g),105,104,-0.011811024
+Biscuits,2,  Tunnock's 6 Tea Cakes Milk Chocolate (6x24g),106,106,0
+Biscuits,2,  Nestle Kit Kat Original (434.7g),106,104,-0.020418552
+Biscuits,2,  McVitie's Gold Crunchy Biscuit Bars With A Unique Gold Coating 8 Bars (176g),111,112,0.003875969
+Biscuits,2,  Choco Break (172g),112,112,0
+Biscuits,2,  Mcvities Club Mint (176g),112,112,0
+Biscuits,2,  McVitie's Club Orange (176g),113,113,0
+Biscuits,2,  Barny Chocolate (150g),117,119,0.012820513
+Biscuits,2,  Maryland Cookies Minis Double Choc 6 Mini Bags (150g),125,125,0
+Biscuits,2,  McVitie's P..p..p...pick Up A...penguin Original (590.4g),128,128,0
+Biscuits,2,  Mcvities Penguin Original 8 Milk Chocolate Covered Biscuit Bars Filled With Chocolate Cream (196.8g),128,128,0
+Biscuits,2,  Belmont Caramel Wafer Bars (224g),129,129,0
+Biscuits,2,  Cadburys Brunch Bar Raisin (6x32g),138,137,-0.004651163
+Biscuits,2,  Jive Caramel Shortcake Bars (232g),140,134,-0.04338843
+Biscuits,2,  Cadburys Brunch Bar Chocchip (6x32g),142,140,-0.017977528
+Biscuits,2,  Cadburys Brunch Bar Peanut 192g,147,146,-0.008695652
+Biscuits,2,  Tunnock's Real Milk Chocolate Caramel Wafer Biscuits (8x30g),150,140,-0.0625
+Biscuits,2,  Wagon Wheels 6 Individually Wrapped Jamme,164,164,-0.002617801
+Biscuits,2,  Belvita Breakfast Soft Bakes Choc Chips (250g),203,205,0.009876543
+Sweet confectionery,3,  Candy Land Flumes (12g),38,38,0
+Sweet confectionery,3,  Multi Millions The Tiny Tasty Chewy Sweets (115g),66,67,0.004950495
+Sweet confectionery,3,  Kellogg's Fruit Winders Doubles Strawberry & Blackcurrant 6 Rolls (6x17g),67,67,0
+Sweet confectionery,3,  Kellogg's Fruit Winders Strawberry 6 Rolls (6x17g),67,67,0
+Sweet confectionery,3,  Kellogg's Strawberry & Apple Fruit Winders,67,67,0
+Sweet confectionery,3,  Metcalfe's Skinny Popcorn 6x Sweet 'n Salt (102g),78,77,-0.008714597
+Sweet confectionery,3,  Haribo Roulette (175g),86,86,0
+Sweet confectionery,3,  Maoam Bloxx (220g),87,87,0
+Sweet confectionery,3,  Barratt Dip Dab (23g),89,89,0
+Sweet confectionery,3,  Barratt Sherbet Fountain (25g),93,93,0
+Sweet confectionery,3,  Chewits Strawberry Flavour Chew Sweets (6x30g),116,115,-0.005194805
+Sweet confectionery,3,  Swizzels Rainbow Drops (125g),116,111,-0.043243243
+Sweet confectionery,3,  Barratt Refreshers (34g),129,129,0
+Sweet confectionery,3,  Mentos Fruit (152g),146,146,0
+Sweet confectionery,3,  Fruit-tella Strawberry (4x41g),164,164,0
+Sweet confectionery,3,  Maynards Bassett's Wine Gums Fruit Flavour Gums (208g),172,171,-0.003030303
+Sweet confectionery,3,  Nestle Rowntrees Fruit Pastilles 4 Tubes (210g),184,185,0.002849003
+Ice cream lollies and sorbets,5,  Tesco 5 Fruity Helter Skelters Juicy & Fruity (350ml),58,52,-0.108433735
+Ice cream lollies and sorbets,5,  Rowntrees Fruit Pastilles Lollies (4x65ml),59,57,-0.043956044
+Ice cream lollies and sorbets,5,  Nestle Fab Strawberry Fruity Lollies With Sprinkles On Top (6x58ml),82,82,0
+Ice cream lollies and sorbets,5,  Solero Exotic (210g),88,101,0.140271493
+Ice cream lollies and sorbets,5,  Mars Ice Cream (204ml),140,140,0.003649635
+Ice cream lollies and sorbets,5,  Co-Op 8 Milk Choc Ices (8x70ml),140,119,-0.148837209
+Ice cream lollies and sorbets,5,  Giannis Ices Mini Chocsticks (600 Ml) (12x50ml),178,177,-0.008426966
+Ice cream lollies and sorbets,5,  Tesco 8 Dark Choc Ices (560ml),214,205,-0.039344262
+Ice cream lollies and sorbets,5,  Nobbly Bobbly (4x70ml),221,221,-0.003164557
+Ice cream lollies and sorbets,5,  Sainsbury's 8 Milk Choc Ices (500ml),238,218,-0.085294118
+Ice cream lollies and sorbets,5,  Iceland 6 Strawberry & Vanilla Cones 6 In a Pack,257,236,-0.081712062
+Ice cream lollies and sorbets,5,  Magnum Almond (440ml),267,267,0
+Ice cream lollies and sorbets,5,  Tesco 4 Strawberry & Vanilla Cones (440ml),292,288,-0.011320755
+Ice cream lollies and sorbets,5,  Iceland 6 Chocolate & Nut Cones (6x110ml),295,285,-0.03358209
+Ice cream lollies and sorbets,5,  Tesco 4 Toffee & Vanilla Cones (440ml),325,321,-0.010169492
+Ice cream lollies and sorbets,5,  Magnum Mint (440ml),330,268,-0.186666667
+Ice cream lollies and sorbets,5,  Magnum White (440ml),330,330,0
+Ice cream lollies and sorbets,5,  Magnum Classic (440ml),340,340,0
+Ice cream lollies and sorbets,5,  Iceland 4 Belgian Chocolate Majestics Ice Cream (4x120ml),392,376,-0.042813456
+Puddings,6,  Nestle Ski Mousse 4x Strawberry Mousse & Strawberry Sauce (240g),77,73,-0.0546875
+Puddings,6,  Yoplait Petits Chocolate Vanilla Flavour (55g),85,85,0
+Puddings,6,  Nestle Milky Bar White Chocolate Dessert (280g),85,85,0
+Puddings,6,  Muller Limited Edition Banana & Toffee Rice (190g),91,91,0
+Puddings,6,  Nestle Aero Milk Choc Bubbly Mousse (236g),94,94,0
+Puddings,6,  Alpro Devlishly Dark Chocolate (500g),104,118,0.132530121
+Puddings,6,  Tesco Creme Caramel (600g),110,110,0
+Puddings,6,  Kingfrais Milk Chocolate Mousse (6x60g),110,110,-4.26E-09
+Puddings,6,  Tesco Chocolate Mousse Milk Chocolate & Cream (360g),114,114,0
+Puddings,6,  Nestle Milkybar (360g),119,116,-0.030150754
+Puddings,6,  Ambrosia Devon Custard Creamy & Delicious (500g) (4x125g),124,124,0
+Puddings,6,  Nestle Rolo (280g),146,146,0
+Puddings,6,  Tesco 8 Chocolate Filled Crepes,150,150,0
+Puddings,6,  Muller Pots Of Joy Caramel (4x70g),151,151,0
+Puddings,6,  Cadburys Pots Of Joy Strawberries & Creme (4x70g),156,164,0.049327354
+Puddings,6,  4 X Smooth and Creamy Dessert Made With Melted Cadburys Milk Chocolate (4x70g),158,158,0
+Puddings,6,  Nestle Rolo (140g),170,170,0
+Puddings,6,  Mr. Kipling 6 Jam Tarts,171,158,-0.074074074
+Puddings,6,  Mr. Kipling 6 Trifle Bakewell,201,193,-0.037551602
+Puddings,6,  Mr. Kipling 6 Fruity Pies Selection,214,213,-0.002762431
+Puddings,6,  Mr. Kipling 6 Cherry Bakewells,214,217,0.009861933
+Puddings,6,  Rowan Hill Akery 6 Cherry Bakewells Topped With Half A Cherry,220,216,-0.018530351
+Puddings,6,  Tesco Fresh 4 Egg Custard Tarts (360g),243,243,0
+Puddings,6,  Mr. Kipling 6 Bramley Apple Pies,252,226,-0.104314662
+Puddings,6,  Mr. Kipling 6 Bramley Apple & Blackcurrant Pies,262,235,-0.104637582
+Yogurts and fromage frais,7,  Danone Activia Exclusive Bio Live Yoghurt Cultures Peach (500g),70,63,-0.107142857
+Yogurts and fromage frais,7,  Danone Activia Exclusive Bio Live Yoghurt Cultures Cherry (500g),74,64,-0.13559322
+Yogurts and fromage frais,7,  Muller Light Greek Style Sublime Strawberry Yoghurt (480g),83,61,-0.260869565
+Yogurts and fromage frais,7,  Muller Light Smooth Toffee (175g),89,89,0
+Yogurts and fromage frais,7,  Muller Light Strawberry (175g),89,89,0
+Yogurts and fromage frais,7,  Mullerlight Red Fruit 6 Pack (175g),91,84,-0.076923077
+Yogurts and fromage frais,7,  Muller Light 6 Pack Yoghurt,99,89,-0.1
+Yogurts and fromage frais,7,  Linessa Vital & Active Light Fruchtjoghurt (8x125g) (1kg),107,108,5.45E-10
+Yogurts and fromage frais,7,  Nestle Ski Smooth (480g),113,100,-0.117021277
+Yogurts and fromage frais,7,  Tesco Berry Medley Yoghurts 2x Strawberry 2x Raspberry 2x Cherry (750g),119,100,-0.157894737
+Yogurts and fromage frais,7,  Danone Activia Rhubarb (500g),121,111,-0.082474227
+Yogurts and fromage frais,7,  Danone Activia Strawberry (500g),124,111,-0.101010101
+Yogurts and fromage frais,7,  Muller Corner Red Fruits 3x Red Cherry 3x Blackberry & Raspberry (900g),161,164,0.018691589
+Yogurts and fromage frais,7,  Danone Oykos Strawberry (440g),161,160,-0.006849315
+Yogurts and fromage frais,7,  Muller Bliss Whipped Greek Style With A Lemon Fruit Sauce (440g),177,177,0
+Yogurts and fromage frais,7,  Muller Corner 3x Vanilla Chocolate Balls 3x Banana Chocolate Flakes (810g),184,194,0.058823529
+Yogurts and fromage frais,7,  Muller Corner Vanilla Chocolate Balls (135g),200,194,-0.027027027
+Yogurts and fromage frais,7,  Muller Corner 3x Milk Chocolate Digestives 3x Strawberry Shortcake (810g),209,204,-0.025806452
+Cakes,8,  Thorntons 9 Mini Chocolate Fudge Brownies,45,47,0.063414634
+Cakes,8,  Asda Baker's Selection Chocolate Brownie Mini Bites (26pack),49,49,0.000657895
+Cakes,8,  Tesco 20 Chocolate Chunk Brownie Bites,51,48,-0.0651341
+Cakes,8,  Tesco Millionaire Bites,65,63,-0.035087719
+Cakes,8,  Thorntons 9 Mini Caramel Shortcake Bites,71,68,-0.042857143
+Cakes,8,  Soreen The Original Malt Loaf 5 Lunchbox Loaves (150g),91,91,0
+Cakes,8,  Sorren 5 Lunchbox Loaves Banana (150g),98,98,0
+Cakes,8,  Cadburys Chocolate & Raspberry Mini Roll (10pack),119,119,0
+Cakes,8,  Mr. Kipling 8 French Francies,124,115,-0.069103568
+Cakes,8,  Cadburys Chocolate Mini Rolls (10pack),124,124,0
+Cakes,8,  Cadburys Mini Rolls Milk Chocolate With Vanilla Creme,125,125,0
+Cakes,8,  Mr. Kipling 6 Almond Slices,128,128,0.001069519
+Cakes,8,  Mr Kipling Lemon Layered Slices (6pack),128,130,0.013825627
+Cakes,8,  Holly Lane Chocolate & Vanilla Mini Rolls (10pack),133,128,-0.034722222
+Cakes,8,  Mr Kipling Lemon Layered Slices Snack Pack (8pack),139,138,-0.002087977
+Cakes,8,  Mr Kipling Angel Slices Snack Pack (8pack),139,138,-0.004819277
+Cakes,8,  Mr. Kipling 6 Bakewell Slices,146,146,0.001475627
+Cakes,8,  Mr. Kipling 5 Mini Battenbergs,148,142,-0.040865385
+Cakes,8,  Mr. Kipling 6 Viennese Whirls,169,163,-0.035294118
+Morning goods,9,  Tesco 8 Crumpets,79,79,0
+Morning goods,9,  Warburtons Sliced White Plain Bagel Thins (6pk),89,89,0.000961538
+Morning goods,9,  Rowan Hill Crumpets Nisb (6 pack),95,98,0.022063112
+Morning goods,9,  Warburtons 6 Thick & Fluffy Crumpers,98,99,0.006567164
+Morning goods,9,  Tesco 8 Chocolate Chip B Rioche Rolls,109,109,-0.000858369
+Morning goods,9,  Kingsmill Crumpets White Nisb (6pk),109,109,0
+Morning goods,9,  Village Bakery 6 Crumpets,110,108,-0.017857143
+Morning goods,9,  Sainsbury's By Plain Crumpets (8pk),111,111,0.000477327
+Morning goods,9,  Continental Choice French Milk Brioche Rolls (10 pack),124,124,0
+Morning goods,9,  Tesco 8 Butter Brioche Rolls,126,124,-0.016438356
+Morning goods,9,  Sainsbury's 8 Milk Chocolate Chip Brioche Rolls (280g),126,126,0
+Morning goods,9,  Bon Appetit (Aldi) French Chocolate Chip Brioche Rolls (280gm) (8pack),127,127,0
+Morning goods,9,  Warburtons Sliced Cinnamon & Raisin Bagel Thins (6pk),142,141,-0.003703704
+Morning goods,9,  Brioche Pasquier Chocolate Chips Brioche Rolls (280g) (8x35g),145,140,-0.034482759
+Morning goods,9,  Specially Selected Luxury Brioche Burger Buns (4pk),157,157,0
+Morning goods,9,  Family Bakers Warburtons 4 Fruity Teacakes With Currants & Sultanas,164,164,0
+Morning goods,9,  Bon Appetit French Butter Croissants (8pk),166,166,0
+Morning goods,9,  Tesco All Butter Croissants,180,180,-0.00212766
+Morning goods,9,  Rowan Hill Bakery 6 Hot Cross Buns,182,155,-0.147629184
+Morning goods,9,  Co-op Hot Cross Buns (6 pack),182,187,0.028368794
+Morning goods,9,  Warburtons  Plain Giant White Crumpets (2pk),184,184,0
+Morning goods,9,  Tesco Hot Cross Buns,198,200,0.006723593
+Morning goods,9,  New York Bakery Co 5 Plain Bagels,227,227,0

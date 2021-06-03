@@ -1,0 +1,19 @@
+CATEG,LOC,SCGCHSIMP,CCCHSIMP
+Biscuits,"""In-home""",0.016,0.037
+Cakes,"""In-home""",-0.014,0.083
+Chocolate confectionery,"""In-home""",-0.005,-0.009
+Ice cream lollies and sorbets,"""In-home""",-0.002,-0.019
+Morning goods,"""In-home""",-0.005,0.029
+Overall,"""In-home""",-0.002,0.015
+Puddings,"""In-home""",-0.002,0.036
+Sweet confectionery,"""In-home""",-0.011,0.01
+Yogurts and fromage frais,"""In-home""",-0.091,-0.065
+Biscuits,"""Out-of-home""",-0.004,-0.014
+Breakfast cereals,"""Out-of-home""",-0.171,0.136
+Cakes,"""Out-of-home""",-0.069,-0.067
+Chocolate confectionery,"""Out-of-home""",0.036,0.219
+Ice cream lollies and sorbets,"""Out-of-home""",-0.129,0.024
+Morning goods,"""Out-of-home""",-0.091,-0.015
+Overall,"""Out-of-home""",-0.049,0.018
+Puddings,"""Out-of-home""",-0.15,-0.036
+Yogurts and fromage frais,"""Out-of-home""",-0.235,0.175
